@@ -1,0 +1,1 @@
+calculate the monthly expenses for car operations because of the odd - even rule (ganjil - genap). The solution is done by entering the variable jumlah_hari and list_plat_nomor
